@@ -30,9 +30,9 @@ the background color of the header is set to blue and text color white.*/
     color: #d9dcd6;
 }
 
-/*header div has a top padding of 15px and right margin of 20px
+/*header nav has a top padding of 15px and right margin of 20px
 float right sets the redirect buttons to the right and text size is 20px*/
-.header div {
+.header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
